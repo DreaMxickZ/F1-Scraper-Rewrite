@@ -1,0 +1,13 @@
+{
+  "functions": {
+    "app/api/scrape/route.ts": {
+      "maxDuration": 60
+    },
+    "app/api/rewrite/route.ts": {
+      "maxDuration": 60
+    },
+    "app/api/publish/route.ts": {
+      "maxDuration": 30
+    }
+  }
+}
